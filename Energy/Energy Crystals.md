@@ -1,6 +1,7 @@
+
 # Energy Crystals
- 
-Energy crystals are crystals that can hold (ep) of there respective energies. 
+
+Energy crystals are crystals that can hold (ep) of there respective energies.
 
 | Color    | Energy Type   | Electrically Stimulated   | Non-User Stimulation   | # of Purity Levels   |
 | -------- | ------------- | ------------------------- | ---------------------- | -------------------- |
@@ -14,22 +15,22 @@ Energy crystals are crystals that can hold (ep) of there respective energies.
 | Orange   | Ohoou         | No                        | No                     | ?                    |
 | Blue     | Matter        | Yes                       | Yes                    | 1                    |
 
-## Electric Stimulation 
+## Electric Stimulation
 If a energy crystal can be electrically stimulated it can be put into a device witch can be used by a mundane. Due to
 the crystal releasing its power when a electric current is passed thou it. Some energy crystals can be stimulated by an
 user of another energy.
 
-## Purity Levels 
+## Purity Levels
 
 Purity Levels along with crystal size effect the strength of an crystal along with its price.
 
-## Crystal Size 
+## Crystal Size
 
 All crystals come in Small, Medium, and Large sizes there are both smaller an larger sizes of crystals, but they are
 rare, and normally quite unstable. The Size determines the amount of (ep) a crystal can hold, but not its (ep) input and
 output rates.
 
-### Size (ep)/rate Table 
+### Size (ep)/rate Table
 
 | Color    | Energy Type   | Formula (ep) Storage    | (ep) in/out rate   |
 | -------- | ------------- | ----------------------- | ------------------ |
